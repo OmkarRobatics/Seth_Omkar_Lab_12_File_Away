@@ -56,7 +56,7 @@ public class File_Away {
                     line++;
                     // echo to screen
                     System.out.printf("\nLine %4d %-60s ", line, rec);
-
+                    System.out.println("\n");
                 }
 
 
