@@ -27,7 +27,7 @@ public class File_Away {
         ArrayList<String> lines = new ArrayList<>(); // array which holds file lines
         String [] wordsNum = new String[] {};
         int charNum = 0;
-        int wordCount = 0;
+        int wordCount = 0;//number of words
 
         try
         {
